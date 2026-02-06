@@ -1,11 +1,60 @@
-### 👋 Hi there! I’m @SnehaAgrawar
+## Hi, I'm Sneha Agrawar 👋
 
-- 👩‍💻 I'm a software developer at **Infosys Finacle** working on real-world web applications and backend systems.
-- 💻 Technologies I work with: Kafka, Redis, Java, JavaScript, Node.js, Angular.js, Oracle, MySQL and REST APIs.
-- 🌱 I'm currently deepening my skills in:
-  - 🧩 Backend mastery – REST APIs, WebSockets, JWT Auth, Rate Limiting, Message Queues (RabbitMQ/Kafka)
-  - 🗄️ Databases – RDBMS (joins, indexing), NoSQL (MongoDB, Redis), CAP Theorem
-  - ⚙️ Scalable architecture – Microservices, API Gateway, Load Balancing, and Distributed Systems basics
+👩‍💻 Software Developer working in the banking domain, building real-world web applications and backend systems.  
+I enjoy designing scalable solutions, building reliable APIs, and continuously expanding my engineering skill set.
+
+---
+
+### 💻 Tech Stack & Skills
+- **Languages:** Java, JavaScript, Python (personal projects & learning)
+- **Frontend:** Angular, React, HTML, CSS
+- **Backend:** REST API development, API design & integration, backend system development
+- **Cloud & DevOps:** Azure Kubernetes Service (AKS), Git, CI/CD basics
+- **Databases:** SQL (Oracle/MySQL), Redis basics, data modeling
+- **Tools:** VS Code, GitHub, Postman
+
+---
+
+### 🚀 Backend & System Design Interests
+- API architecture, authentication (JWT), WebSockets basics
+- Distributed systems fundamentals & microservices architecture
+- Messaging systems & caching concepts (Kafka/Redis basics)
+- Performance optimization, indexing & scalable backend design
+
+---
+
+### 🌱 Currently Exploring
+- Cloud-native architecture & containerization
+- Advanced system design patterns
+- Production-grade full-stack projects
+- Python for automation & backend use cases
+- Data structures & consistent problem solving
+
+---
+
+### 💡 Interests Beyond Coding
+- Building impactful tech projects
+- Continuous learning & productivity systems
+- Travel, creativity, and tech exploration
+
+---
+
+### 📌 Career Focus
+- Strengthening full-stack + backend expertise  
+- Building scalable, production-ready systems  
+- Growing toward globally competitive engineering roles  
+
+---
+
+### 📫 Connect With Me
+- 🤝 Always open to collaborating on meaningful projects and exploring modern tech.
+- 📬 Reach me at:  
+  📧 Email: snehamadhu555@gmail.com  
+  💼 LinkedIn: [Sneha Agrawar](https://www.linkedin.com/in/sneha-agrawar-175993267/)
+- 😄 Pronouns: she/her  
+- 📚 Fun fact: I love reading books — especially those that blend imagination and insight!
+
+Thanks for visiting my profile 🙂
 
 ### 💻 Tech Stack:
 
@@ -22,13 +71,6 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=websocket&logoColor=white)
 
 ---
-
-- 🤝 Always open to collaborating on meaningful projects and exploring modern tech.
-- 📬 Reach me at:  
-  📧 Email: snehamadhu555@gmail.com  
-  💼 LinkedIn: [Sneha Agrawar](https://www.linkedin.com/in/sneha-agrawar-175993267/)
-- 😄 Pronouns: she/her  
-- 📚 Fun fact: I love reading books — especially those that blend imagination and insight!
 
 
 
