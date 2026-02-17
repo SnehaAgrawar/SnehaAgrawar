@@ -1,57 +1,20 @@
-## Hi, I'm Sneha Agrawar 👋
+## Hi, I’m Sneha Agrawar 👋
 
-👩‍💻 Software Developer working in the banking domain, building real-world web applications and backend systems.  
-I enjoy designing scalable solutions, building reliable APIs, and continuously expanding my engineering skill set.
-
----
+Software Developer working on backend systems and web applications, with a focus on scalable APIs, clean architecture, and practical problem solving.
 
 ### 💻 Tech Stack & Skills
-- **Languages:** Java, JavaScript, Python (personal projects & learning)
-- **Frontend:** Angular, React, HTML, CSS
-- **Backend:** REST API development, API design & integration, backend system development
-- **Cloud & DevOps:** Azure Kubernetes Service (AKS), Git, CI/CD basics
-- **Databases:** SQL (Oracle/MySQL), Redis basics, data modeling
-- **Tools:** VS Code, GitHub, Postman
-
----
-
-### 🚀 Backend & System Design Interests
-- API architecture, authentication (JWT), WebSockets basics
-- Distributed systems fundamentals & microservices architecture
-- Messaging systems & caching concepts (Kafka/Redis basics)
-- Performance optimization, indexing & scalable backend design
-
----
+Java • JavaScript • Angular • React • REST APIs • SQL  
+Azure Kubernetes Service (AKS) • Git • Backend development  
+Python (personal projects & automation interest)
 
 ### 🌱 Currently Exploring
-- Cloud-native architecture & containerization
-- Advanced system design patterns
-- Production-grade full-stack projects
-- Python for automation & backend use cases
-- Data structures & consistent problem solving
+System design fundamentals, distributed systems concepts, cloud-native development, and advanced data structures & algorithms.
 
----
-
-### 💡 Interests Beyond Coding
-- Building impactful tech projects
-- Continuous learning & productivity systems
-- Travel, creativity, and tech exploration
-
----
-
-### 📌 Career Focus
-- Strengthening full-stack + backend expertise  
-- Building scalable, production-ready systems  
-- Growing toward globally competitive engineering roles  
-
----
 
 ### 📫 Connect With Me
-- 🤝 Always open to collaborating on meaningful projects and exploring modern tech.
-- 📬 Reach me at:  
-  📧 Email: snehamadhu555@gmail.com  
-  💼 LinkedIn: [Sneha Agrawar](https://www.linkedin.com/in/sneha-agrawar-175993267/)
-- 😄 Pronouns: she/her  
+- 🤝 Always open to collaborating on meaningful projects and exploring modern tech.  
+  📧 Email: [Sneha's gmail](snehamadhu555@gmail.com) 
+  💼 LinkedIn: [Sneha Agrawar](https://www.linkedin.com/in/sneha-agrawar-175993267/) 
 - 📚 Fun fact: I love reading books — especially those that blend imagination and insight!
 
 Thanks for visiting my profile 🙂
@@ -69,10 +32,6 @@ Thanks for visiting my profile 🙂
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=flat&logo=websocket&logoColor=white)
-
----
-
-
 
 
 <!---
