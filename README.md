@@ -1,5 +1,4 @@
 ## Hi, I’m Sneha Agrawar 👋
-
 Software Developer working on backend systems and web applications, with a focus on scalable APIs, clean architecture, and practical problem solving.
 
 ### 💻 Tech Stack & Skills
@@ -9,7 +8,6 @@ Python (personal projects & automation interest)
 
 ### 🌱 Currently Exploring
 System design fundamentals, distributed systems concepts, cloud-native development, and advanced data structures & algorithms.
-
 
 ### 📫 Connect With Me
 - 🤝 Always open to collaborating on meaningful projects and exploring modern tech.  
